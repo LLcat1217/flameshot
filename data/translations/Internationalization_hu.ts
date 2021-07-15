@@ -536,6 +536,10 @@ Nyomd meg a Space billentyűt, hogy megnyisd az oldalsó panelt.</translation>
         <source>Latest Uploads Max Size</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Undo limit</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>HistoryWidget</name>
@@ -809,11 +813,11 @@ Nyomd meg a Space billentyűt, hogy megnyisd az oldalsó panelt.</translation>
     <name>QHotkey</name>
     <message>
         <source>Failed to register %1. Error: %2</source>
-        <translation type="vanished">Nem sikerült %1 rögzítése. %2 Hiba</translation>
+        <translation>Nem sikerült %1 rögzítése. %2 Hiba</translation>
     </message>
     <message>
         <source>Failed to unregister %1. Error: %2</source>
-        <translation type="vanished">Sikertelen rögzítés törlés %1 -nél. %2 Hiba</translation>
+        <translation>Sikertelen rögzítés törlés %1 -nél. %2 Hiba</translation>
     </message>
 </context>
 <context>
@@ -845,7 +849,7 @@ Nyomd meg a Space billentyűt, hogy megnyisd az oldalsó panelt.</translation>
     </message>
     <message>
         <source>Capture saved to clipboard</source>
-        <translation>Felvétel mentve a vágólapra</translation>
+        <translation type="vanished">Felvétel mentve a vágólapra</translation>
     </message>
     <message>
         <source>URL copied to clipboard.</source>
